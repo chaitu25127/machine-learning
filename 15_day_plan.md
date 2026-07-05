@@ -80,3 +80,19 @@
 - [ ] 📖 Re-read ALL CS229 cheatsheets (2h)
 - [ ] 💻 Fix weak spots from mocks (3h)
 - [ ] 🌐 Start on LinkedIn, Wellfound, career pages (2h)
+
+## Supervised Learning: https://raw.githubusercontent.com/afshinea/stanford-cs-229-machine-learning/master/en/cheatsheet-supervised-learning.pdf
+
+## Unsupervised Learning: https://raw.githubusercontent.com/afshinea/stanford-cs-229-machine-learning/master/en/cheatsheet-unsupervised-learning.pdf
+
+## Deep Learning: https://raw.githubusercontent.com/afshinea/stanford-cs-229-machine-learning/master/en/cheatsheet-deep-learning.pdf
+
+## Tips & Tricks: https://raw.githubusercontent.com/afshinea/stanford-cs-229-machine-learning/master/en/cheatsheet-machine-learning-tips-and-tricks.pdf
+
+## Super Cheatsheet (all combined): https://raw.githubusercontent.com/afshinea/stanford-cs-229-machine-learning/master/en/super-cheatsheet-machine-learning.pdf
+
+## Math Refreshers:
+
+## Prob & Stats: https://raw.githubusercontent.com/afshinea/stanford-cs-229-machine-learning/master/en/refresher-probabilities-statistics.pdf
+
+## Linear Algebra & Calculus: https://raw.githubusercontent.com/afshinea/stanford-cs-229-machine-learning/master/en/refresher-algebra-calculus.pdf
