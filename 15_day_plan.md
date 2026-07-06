@@ -13,14 +13,14 @@
 - [x] 💻 Ch 4 notebook: polynomial_regression.ipynb
 
 ## Day 2 — Logistic Regression (Sun 7/5)
-- [ ] 🎬 CS229 Lecture 3 — Logistic Regression, Newton's Method (1h)
-- [ ] 📖 handson-ml3 Ch 4 — Logistic Regression section (30min)
-- [ ] 💻 Ch 4 notebook: logistic_regression.ipynb + exercises (2.5h)
+- [x] 🎬 CS229 Lecture 3 — Logistic Regression, Newton's Method (1h)
+- [x] 📖 handson-ml3 Ch 4 — Logistic Regression section (30min)
+- [x] 💻 Ch 4 notebook: logistic_regression.ipynb + exercises (2.5h)
 
 ## Day 3 — Bias-Variance, Regularization (Mon 7/6)
-- [ ] 🎬 CS229 Lecture 8 — Bias-Variance Tradeoff + Regularization (1h)
-- [ ] 📖 handson-ml3 Ch 4 — Regularization (Ridge/Lasso/ElasticNet) (30min)
-- [ ] 💻 Ch 4 notebook: regularization.ipynb + Kaggle House Prices (2.5h)
+- [x] 🎬 CS229 Lecture 8 — Bias-Variance Tradeoff + Regularization (1h)
+- [x] 📖 handson-ml3 Ch 4 — Regularization (Ridge/Lasso/ElasticNet) (30min)
+- [x] 💻 Ch 4 notebook: regularization.ipynb + Kaggle House Prices (2.5h)
 
 ## Day 4 — Decision Trees, Random Forest (Tue 7/7)
 - [ ] 🎬 CS229 Lecture 9 — Trees / Ensemble Methods (1h)
